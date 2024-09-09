@@ -10,7 +10,8 @@ In a neural network regression problem, the goal is to predict continuous values
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![image](https://github.com/user-attachments/assets/a6e50bbb-3eae-42f2-a58e-576f2245e009)
+
 
 ## DESIGN STEPS
 

@@ -6,7 +6,7 @@ To develop a neural network regression model for the given dataset.
 
 ## THEORY
 
-Explain the problem statement
+In a neural network regression problem, the goal is to predict continuous values based on input features. Unlike classification tasks that predict discrete labels, regression models output real numbers. Neural network regression models are particularly useful for tasks where the relationship between the input and output is complex and nonlinear.The problem involves designing and training a neural network to minimize the error between the predicted output and the actual target values. This is typically done using a loss function such as Mean Squared Error (MSE), and the model learns through backpropagation and optimization algorithms like gradient descent.In this case, you will develop a neural network regression model to predict a continuous target variable based on the given dataset. The task will involve selecting appropriate features, designing the network architecture, and training the model for optimal performance.
 
 ## Neural Network Model
 
@@ -127,5 +127,4 @@ m1.predict(x)
 
 ![alt text](image-3.png)
 ## RESULT
-
-Include your result here
+A neural network regression model is successfully developed.
